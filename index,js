@@ -1,7 +1,0 @@
-const body = document.getElementsByTagName('body')[0]
-
-function changeColor(color){
-    body.style.backgroundColor = color;
-}
-
-changeColor('red');
